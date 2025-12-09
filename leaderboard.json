@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 3,
+      "player": 28
+    },
+    "health": 0,
+    "time": "2025-12-08T21:13:35.723261"
+  },
+  {
+    "name": "Neymar",
+    "chosen": "Neymar",
+    "score": {
+      "opponent": 5,
+      "player": 24
+    },
+    "health": 0,
+    "time": "2025-12-08T21:39:26.172453"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 5
+    },
+    "health": 0,
+    "time": "2025-12-08T21:54:05.129193"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 5
+    },
+    "health": 0,
+    "time": "2025-12-08T21:54:05.220832"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 5
+    },
+    "health": 0,
+    "time": "2025-12-08T21:54:05.290840"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 74,
+    "time": "2025-12-08T22:04:23.536428"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 0
+    },
+    "health": 90,
+    "time": "2025-12-08T22:05:11.135318"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "chosen": "Cristiano Ronaldo",
+    "score": {
+      "opponent": 0,
+      "player": 18
+    },
+    "health": 0,
+    "time": "2025-12-08T22:05:58.243303"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 1,
+      "player": 29
+    },
+    "health": 9,
+    "time": "2025-12-08T22:53:12.542969"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 3
+    },
+    "health": 80,
+    "time": "2025-12-08T23:20:29.830488"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:21:07.565926"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:21:07.729109"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:21:08.076140"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:21:25.283965"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:21:25.423357"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:21:25.567749"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:21:25.864729"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:21:25.950577"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T00:24:56.923896"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T00:24:56.960815"
+  },
+  {
+    "name": "Lionel Messi",
+    "chosen": "Lionel Messi",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T00:24:56.992895"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 7
+    },
+    "health": 0,
+    "time": "2025-12-09T00:28:23.329783"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 7
+    },
+    "health": 0,
+    "time": "2025-12-09T00:28:23.366129"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 7
+    },
+    "health": 0,
+    "time": "2025-12-09T00:28:23.579531"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 7
+    },
+    "health": 0,
+    "time": "2025-12-09T00:28:23.863131"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 8
+    },
+    "health": 0,
+    "time": "2025-12-09T00:28:24.073129"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:34:01.551524"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:34:01.695752"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 1
+    },
+    "health": 0,
+    "time": "2025-12-09T00:34:01.841522"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 2
+    },
+    "health": 0,
+    "time": "2025-12-09T00:34:01.995692"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 2
+    },
+    "health": 0,
+    "time": "2025-12-09T00:34:02.063487"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 2
+    },
+    "health": 0,
+    "time": "2025-12-09T00:34:02.114986"
+  },
+  {
+    "name": "Kylian Mbappe",
+    "chosen": "Kylian Mbappe",
+    "score": {
+      "opponent": 0,
+      "player": 2
+    },
+    "health": 0,
+    "time": "2025-12-09T00:59:20.424832"
+  },
+  {
+    "name": "Kylian Mbappe",
+    "chosen": "Kylian Mbappe",
+    "score": {
+      "opponent": 0,
+      "player": 2
+    },
+    "health": 0,
+    "time": "2025-12-09T00:59:20.680251"
+  },
+  {
+    "name": "Kylian Mbappe",
+    "chosen": "Kylian Mbappe",
+    "score": {
+      "opponent": 0,
+      "player": 2
+    },
+    "health": 0,
+    "time": "2025-12-09T00:59:20.867853"
+  },
+  {
+    "name": "Kylian Mbappe",
+    "chosen": "Kylian Mbappe",
+    "score": {
+      "opponent": 0,
+      "player": 3
+    },
+    "health": 0,
+    "time": "2025-12-09T00:59:20.956960"
+  },
+  {
+    "name": "Kylian Mbappe",
+    "chosen": "Kylian Mbappe",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T01:00:59.306714"
+  },
+  {
+    "name": "Kylian Mbappe",
+    "chosen": "Kylian Mbappe",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T01:00:59.351374"
+  },
+  {
+    "name": "Dallas",
+    "chosen": "Myself",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T01:01:49.635281"
+  },
+  {
+    "name": "Dallas",
+    "chosen": "Myself",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T01:01:49.679679"
+  },
+  {
+    "name": "Dallas",
+    "chosen": "Myself",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T01:01:49.764778"
+  },
+  {
+    "name": "Dallas",
+    "chosen": "Myself",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T01:01:49.879158"
+  },
+  {
+    "name": "Dallas",
+    "chosen": "Myself",
+    "score": {
+      "opponent": 0,
+      "player": 4
+    },
+    "health": 0,
+    "time": "2025-12-09T01:01:50.032234"
+  },
+  {
+    "name": "Jamal Musiala",
+    "chosen": "Jamal Musiala",
+    "score": {
+      "opponent": 0,
+      "player": 9
+    },
+    "health": 0,
+    "time": "2025-12-09T01:10:45.763917"
+  }
+]
